@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vmbr0 on discord**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: "href=https://vmbr0.me" </h3>
 <p align="left">
 </p>
 
