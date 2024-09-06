@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmbr0" alt="vmbr0" /></a> </p>
 
-- 🔭 I’m currently working on **Mystia**
+- 🔭 I’m currently working on **HwHost**
 
 - 🌱 I’m currently learning **PHP**
 
-- 👯 I’m looking to collaborate on [FrontierCraft](https://frontiercraft.fr/)
+- 👯 I’m looking to collaborate on [OpenScale](https://openscale.fr/)
 
 - 🤝 I’m looking for help with [Hwhost](https://hwhost.fr/)
 
