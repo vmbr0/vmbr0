@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmbr0&label=Profile%20views&color=ff2600&style=flat" alt="vmbr0" /> </p>
 
-[![trophy](https://cdn.jsdelivr.net/gh/vmbr0/github-profile-trophy@1b665275773dab4f87a8e0e3ab3ea10e25ba1363/trophy.svg)](https://github.com/vmbr0/github-profile-trophy)
+[![trophy](https://cdn.jsdelivr.net/gh/vmbr0/github-profile-trophy@8b4e10d82359a9c76795675625023d7cf6de667d/trophy.svg)](https://github.com/vmbr0/github-profile-trophy)
 
 - 🔭 I’m currently working on **FlowDesk**
 
