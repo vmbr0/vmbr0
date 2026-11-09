@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=vmbr0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/vmbr0/github-profile-trophy"><img src="https://cdn.jsdelivr.net/gh/vmbr0/github-profile-trophy@1b665275773dab4f87a8e0e3ab3ea10e25ba1363/trophy.svg" alt="trophy" /></a>
+</p>
+
 Développeur frontend basé à Metz. Je travaille sur [HwHost](https://hwhost.fr/).
 
 ## En ce moment
