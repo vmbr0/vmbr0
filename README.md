@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmbr0&label=Profile%20views&color=ff2600&style=flat" alt="vmbr0" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on **FlowDesk**
 
 - 🌱 I’m currently learning **React**
